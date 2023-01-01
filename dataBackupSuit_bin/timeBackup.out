@@ -1,0 +1,16 @@
+Database backup suit for MySQL.
+读取配置文件的go
+properties : ./properties
+DBPort : 3306
+BkUsr : root
+BkPass : 123456
+BkPath : /home/lming/dataBackupSuit
+BackupPth : /backup
+RestorePth : /restore
+SshUsr : lming
+SshPass : 123456
+DBPth : /usr/local/mysql-5.7.36
+DBSock : /data/sock_nodeA_30621.sock
+DBConf : /start.conf
+StartTime : 2022-12-19 17
+CheckTime : 300

@@ -1,0 +1,3 @@
+module databaseBackupSuit
+
+go 1.16

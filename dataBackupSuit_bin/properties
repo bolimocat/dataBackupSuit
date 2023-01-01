@@ -1,0 +1,16 @@
+Database:mysql5
+ClusterDb:n
+FullBackup:y
+BackupOrRestore:b
+DBUrl:192.168.2.162
+DBPort:3306
+BkUsr:root
+BkPass:123456
+BkPath:/home/lming/dataBackupSuit
+BackupPth:/backup
+RestorePth:/restore
+SshUsr:lming
+SshPass:123456
+DBPth:/usr/local/mysql-5.7.36
+DBSock:/data/sock_nodeA_30621.sock
+DBConf:/start.conf
